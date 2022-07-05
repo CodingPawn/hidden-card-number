@@ -1,6 +1,6 @@
 <h1>Hidden Card Number</h1>
 <p>THIS IS A SIMPLE SCRIPT THAT HIDES CREDIT CARD NUMBER. 
-IT IS NOT STILL INTENDED FOR SERIOUS USE!
+IT IS NOT INTENDED FOR SERIOUS USE YET!
 </p>
 <h2>Script</h2>
 <p>As both credit and debit cards contain only 16 digits, you can only input so many.</p>
